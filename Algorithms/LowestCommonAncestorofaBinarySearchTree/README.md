@@ -1,4 +1,7 @@
-https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+#[LowestCommonAncestorofaBinarySearchTree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)
+
+##JavaScript
+
 ```javascript
 /**
  * Definition for a binary tree node.
