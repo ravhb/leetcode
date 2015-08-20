@@ -1,4 +1,4 @@
-#[SameTree](https://leetcode.com/problems/same-tree/)
+#[Same Tree](https://leetcode.com/problems/same-tree/)
 ######No:`100`
 ######Difficulty:`Easy`
 ##JavaScript

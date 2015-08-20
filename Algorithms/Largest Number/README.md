@@ -1,4 +1,4 @@
-#[Largest Number ](https://leetcode.com/problems/largest-number/)
+#[Largest Number](https://leetcode.com/problems/largest-number/)
 ######No:`179`
 ######Difficulty:`Medium`
 ##JavaScript

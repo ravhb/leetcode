@@ -1,4 +1,4 @@
-#[Permutations ](https://leetcode.com/problems/permutations/)
+#[Permutations](https://leetcode.com/problems/permutations/)
 ######No:`46`
 ######Difficulty:`Medium`
 ##JavaScript
