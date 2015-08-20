@@ -1,5 +1,6 @@
 #[Plus One](https://leetcode.com/problems/plus-one/)
-
+######No:`66`
+######Difficulty:`Easy`
 ##JavaScript
 
 ```javascript

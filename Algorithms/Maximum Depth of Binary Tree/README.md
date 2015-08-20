@@ -1,5 +1,6 @@
 #[Maximum Depth of Binary Tree ](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
-
+######No:`104`
+######Difficulty:`Easy`
 ##JavaScript
 
 ```javascript
