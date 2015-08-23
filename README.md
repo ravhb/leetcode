@@ -30,8 +30,8 @@ My JavaScript Solution of [leetcode](http://oj.leetcode.com/problems/)
 |151|Reverse Words in a String|[JavaScript](https://github.com/duteng/leedcode/tree/master/Algorithms/Reverse%20Words%20in%20a%20String)|Easy|
 |155|Min Stack|[JavaScript](https://github.com/duteng/leedcode/tree/master/Algorithms/Min%20Stack)|Easy|
 |160|Intersection of Two Linked Lists|[JavaScript](https://github.com/duteng/leedcode/tree/master/Algorithms/Intersection%20of%20Two%20Linked%20Lists)|Easy|
-|165|ZigZag Conversion|[JavaScript](https://github.com/duteng/leedcode/tree/master/Algorithms/ZigZag%20Conversion)|Easy|
 |165|Compare Version Numbers|[JavaScript](https://github.com/duteng/leedcode/tree/master/Algorithms/Compare%20Version%20Numbers)|Easy|
+|165|ZigZag Conversion|[JavaScript](https://github.com/duteng/leedcode/tree/master/Algorithms/ZigZag%20Conversion)|Easy|
 |168|Excel Sheet Column Title |[JavaScript](https://github.com/duteng/leedcode/tree/master/Algorithms/Excel%20Sheet%20Column%20Title%20)|Easy|
 |169|Majority Element|[JavaScript](https://github.com/duteng/leedcode/tree/master/Algorithms/Majority%20Element)|Easy|
 |171|Excel Sheet Column Number|[JavaScript](https://github.com/duteng/leedcode/tree/master/Algorithms/Excel%20Sheet%20Column%20Number)|Easy|
