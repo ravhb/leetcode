@@ -15,8 +15,12 @@ My JavaScript Solution of [leetcode](http://oj.leetcode.com/problems/)
 |73|Set Matrix Zeroes|[JavaScript](https://github.com/duteng/leedcode/tree/master/Algorithms/Set%20Matrix%20Zeroes)|Medium|
 |88|Merge Sorted Array|[JavaScript](https://github.com/duteng/leedcode/tree/master/Algorithms/Merge%20Sorted%20Array)|Easy|
 |100|Same Tree|[JavaScript](https://github.com/duteng/leedcode/tree/master/Algorithms/Same%20Tree)|Easy|
+|101|Symmetric Tree|[JavaScript](https://github.com/duteng/leedcode/tree/master/Algorithms/Symmetric%20Tree)|Easy|
+|102|Binary Tree Level Order Traversal|[JavaScript](https://github.com/duteng/leedcode/tree/master/Algorithms/Binary%20Tree%20Level%20Order%20Traversal)|Easy|
 |104|Maximum Depth of Binary Tree|[JavaScript](https://github.com/duteng/leedcode/tree/master/Algorithms/Maximum%20Depth%20of%20Binary%20Tree)|Easy|
+|107|Binary Tree Level Order Traversal II|[JavaScript](https://github.com/duteng/leedcode/tree/master/Algorithms/Binary%20Tree%20Level%20Order%20Traversal%20II)|Easy|
 |110|Balanced Binary Tree|[JavaScript](https://github.com/duteng/leedcode/tree/master/Algorithms/Balanced%20Binary%20Tree)|Easy|
+|111|Minimum Depth of Binary Tree|[JavaScript](https://github.com/duteng/leedcode/tree/master/Algorithms/Minimum%20Depth%20of%20Binary%20Tree)|Easy|
 |112|Path Sum|[JavaScript](https://github.com/duteng/leedcode/tree/master/Algorithms/Path%20Sum)|Easy|
 |118|Pascal's Triangle|[JavaScript](https://github.com/duteng/leedcode/tree/master/Algorithms/Pascal's%20Triangle)|Easy|
 |122|Best Time to Buy and Sell Stock II|[JavaScript](https://github.com/duteng/leedcode/tree/master/Algorithms/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II)|Medium|
