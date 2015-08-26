@@ -3,7 +3,7 @@ var events = require('events');
 var proxy = new events.EventEmitter();
 
 var dir = './Algorithms';
-var repo_url = 'https://github.com/duteng/leedcode/tree/master/Algorithms/';
+var repo_url = 'https://github.com/duteng/leetcode/tree/master/Algorithms/';
 var ret = [];
 
 targetDirs = fs.readdir(dir, function(err, files) {
@@ -34,7 +34,7 @@ proxy.once('readDone', function() {
     });
 
     var content = [
-        'leedcode',
+        'leetcode',
         '========',
         'My JavaScript Solution of [leetcode](http://oj.leetcode.com/problems/)',
         '',

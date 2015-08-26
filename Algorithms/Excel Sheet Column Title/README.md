@@ -1,4 +1,4 @@
-#[Excel Sheet Column Title ](https://leetcode.com/problems/excel-sheet-column-title/)
+#[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
 ######No:`168`
 ######Difficulty:`Easy`
 ##JavaScript
