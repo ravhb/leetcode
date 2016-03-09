@@ -4,7 +4,8 @@ My JavaScript Solution of [leetcode](http://oj.leetcode.com/problems/)
 
 
 | No | Title | Source Code | Difficulty |
-|----| ----- | -------- | ---------- ||7|Reverse Integer|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Reverse%20Integer)|Easy|
+|----| ----- | -------- | ---------- |
+|7|Reverse Integer|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Reverse%20Integer)|Easy|
 |8|String to Integer (atoi)|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/String%20to%20Integer%20(atoi))|Easy|
 |9|Palindrome Number|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Palindrome%20Number)|Easy|
 |19|Remove Nth Node From End of List|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Remove%20Nth%20Node%20From%20End%20of%20List)|Easy|
