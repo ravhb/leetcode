@@ -40,7 +40,8 @@ proxy.once('readDone', function() {
         '',
         '',
         '| No | Title | Source Code | Difficulty |',
-        '|----| ----- | -------- | ---------- |'].join('\r\n');
+        '|----| ----- | -------- | ---------- |'
+    ].join('\r\n') + '\r\n';
 
     for(var i = 0; i < ret.length; i++) {
         content += '|' + ret[i].no + '|' + ret[i].title + '|' + ret[i].link + '|' + ret[i].difficulty + '|' + '\r\n';

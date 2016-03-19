@@ -1,5 +1,5 @@
 #[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)
-######No:`165`
+######No:`6`
 ######Difficulty:`Easy`
 ##JavaScript
 
