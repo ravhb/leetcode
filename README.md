@@ -9,6 +9,7 @@ My JavaScript Solution of [leetcode](http://oj.leetcode.com/problems/)
 |7|Reverse Integer|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Reverse%20Integer)|Easy|
 |8|String to Integer (atoi)|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/String%20to%20Integer%20(atoi))|Easy|
 |9|Palindrome Number|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Palindrome%20Number)|Easy|
+|13|Roman to Integer|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Roman%20to%20Integer)|Easy|
 |19|Remove Nth Node From End of List|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Remove%20Nth%20Node%20From%20End%20of%20List)|Easy|
 |20|Valid Parentheses|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Valid%20Parentheses)|Easy|
 |21|Merge Two Sorted Lists|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Merge%20Two%20Sorted%20Lists)|Easy|
@@ -16,6 +17,7 @@ My JavaScript Solution of [leetcode](http://oj.leetcode.com/problems/)
 |27|Remove Element|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Remove%20Element)|Easy|
 |46|Permutations|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Permutations)|Medium|
 |66|Plus One|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Plus%20One)|Easy|
+|70|Climbing Stairs|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Climbing%20Stairs)|Easy|
 |73|Set Matrix Zeroes|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Set%20Matrix%20Zeroes)|Medium|
 |83|Remove Duplicates from Sorted List|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Remove%20Duplicates%20from%20Sorted%20List)|Easy|
 |88|Merge Sorted Array|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Merge%20Sorted%20Array)|Easy|
@@ -44,6 +46,8 @@ My JavaScript Solution of [leetcode](http://oj.leetcode.com/problems/)
 |171|Excel Sheet Column Number|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Excel%20Sheet%20Column%20Number)|Easy|
 |179|Largest Number|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Largest%20Number)|Medium|
 |189|Rotate Array|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Rotate%20Array)|Easy|
+|191|Number of 1 Bits|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Number%20of%201%20Bits)|Easy|
+|202|Happy Number|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Happy%20Number)|Easy|
 |203|Remove Linked List Elements|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Remove%20Linked%20List%20Elements)|Easy|
 |206|Reverse Linked List|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Reverse%20Linked%20List)|Easy|
 |217|Contains Duplicate|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Contains%20Duplicate)|Easy|
@@ -56,3 +60,6 @@ My JavaScript Solution of [leetcode](http://oj.leetcode.com/problems/)
 |257|Binary Tree Paths|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Binary%20Tree%20Paths)|Easy|
 |258|Add Digits|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Add%20Digits)|Easy|
 |263|Ugly Number|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Ugly%20Number)|Easy|
+|283|Move Zeroes|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Move%20Zeroes)|Easy|
+|292|Nim Game|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Nim%20Game)|Easy|
+|328|Odd Even Linked List|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Odd%20Even%20Linked%20List)|Medium|
