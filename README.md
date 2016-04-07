@@ -13,6 +13,7 @@ My JavaScript Solution of [leetcode](http://oj.leetcode.com/problems/)
 |19|Remove Nth Node From End of List|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Remove%20Nth%20Node%20From%20End%20of%20List)|Easy|
 |20|Valid Parentheses|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Valid%20Parentheses)|Easy|
 |21|Merge Two Sorted Lists|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Merge%20Two%20Sorted%20Lists)|Easy|
+|24|Swap Nodes in Pairs|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Swap%20Nodes%20in%20Pairs)|Easy|
 |26|Remove Duplicates from Sorted Array|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Remove%20Duplicates%20from%20Sorted%20Array)|Easy|
 |27|Remove Element|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Remove%20Element)|Easy|
 |46|Permutations|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Permutations)|Medium|
@@ -53,6 +54,7 @@ My JavaScript Solution of [leetcode](http://oj.leetcode.com/problems/)
 |217|Contains Duplicate|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Contains%20Duplicate)|Easy|
 |226|Invert Binary Tree|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Invert%20Binary%20Tree)|Easy|
 |228|Summary Ranges|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Summary%20Ranges)|Easy|
+|231|Power of Two|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Power%20of%20Two)|Easy|
 |234|Palindrome Linked List|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Palindrome%20Linked%20List)|Easy|
 |235|Lowest Common Ancestor of a Binary Search Tree|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)|Easy|
 |237|Delete Node in a Linked List|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Delete%20Node%20in%20a%20Linked%20List)|Easy|
