@@ -37,6 +37,7 @@ My JavaScript Solution of [leetcode](http://oj.leetcode.com/problems/)
 |125|Valid Palindrome|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Valid%20Palindrome)|Easy|
 |136|Single Number|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Single%20Number)|Medium|
 |148|Sort List|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Sort%20List)|Medium|
+|149|Max Points on a Line|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Max%20Points%20on%20a%20Line)|Hard|
 |150|Evaluate Reverse Polish Notation|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Evaluate%20Reverse%20Polish%20Notation)|Medium|
 |151|Reverse Words in a String|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Reverse%20Words%20in%20a%20String)|Easy|
 |155|Min Stack|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Min%20Stack)|Easy|
