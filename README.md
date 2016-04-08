@@ -5,6 +5,7 @@ My JavaScript Solution of [leetcode](http://oj.leetcode.com/problems/)
 
 | No | Title | Source Code | Difficulty |
 |----| ----- | -------- | ---------- |
+|1|Two Sum|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Two%20Sum)|Easy|
 |6|ZigZag Conversion|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/ZigZag%20Conversion)|Easy|
 |7|Reverse Integer|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Reverse%20Integer)|Easy|
 |8|String to Integer (atoi)|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/String%20to%20Integer%20(atoi))|Easy|
@@ -49,6 +50,7 @@ My JavaScript Solution of [leetcode](http://oj.leetcode.com/problems/)
 |179|Largest Number|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Largest%20Number)|Medium|
 |189|Rotate Array|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Rotate%20Array)|Easy|
 |191|Number of 1 Bits|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Number%20of%201%20Bits)|Easy|
+|198|House Robber|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/House%20Robber)|Easy|
 |202|Happy Number|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Happy%20Number)|Easy|
 |203|Remove Linked List Elements|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Remove%20Linked%20List%20Elements)|Easy|
 |206|Reverse Linked List|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Reverse%20Linked%20List)|Easy|
@@ -65,4 +67,5 @@ My JavaScript Solution of [leetcode](http://oj.leetcode.com/problems/)
 |263|Ugly Number|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Ugly%20Number)|Easy|
 |283|Move Zeroes|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Move%20Zeroes)|Easy|
 |292|Nim Game|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Nim%20Game)|Easy|
+|326|Power of Three|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Power%20of%20Three)|Easy|
 |328|Odd Even Linked List|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Odd%20Even%20Linked%20List)|Medium|
