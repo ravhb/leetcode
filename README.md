@@ -17,6 +17,7 @@ My JavaScript Solution of [leetcode](http://oj.leetcode.com/problems/)
 |24|Swap Nodes in Pairs|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Swap%20Nodes%20in%20Pairs)|Easy|
 |26|Remove Duplicates from Sorted Array|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Remove%20Duplicates%20from%20Sorted%20Array)|Easy|
 |27|Remove Element|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Remove%20Element)|Easy|
+|36|Valid Sudoku|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Valid%20Sudoku)|Easy|
 |46|Permutations|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Permutations)|Medium|
 |66|Plus One|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Plus%20One)|Easy|
 |70|Climbing Stairs|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Climbing%20Stairs)|Easy|
@@ -47,6 +48,7 @@ My JavaScript Solution of [leetcode](http://oj.leetcode.com/problems/)
 |168|Excel Sheet Column Title|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Excel%20Sheet%20Column%20Title)|Easy|
 |169|Majority Element|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Majority%20Element)|Easy|
 |171|Excel Sheet Column Number|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Excel%20Sheet%20Column%20Number)|Easy|
+|172|Factorial Trailing Zeroes|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Factorial%20Trailing%20Zeroes)|Easy|
 |179|Largest Number|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Largest%20Number)|Medium|
 |189|Rotate Array|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Rotate%20Array)|Easy|
 |191|Number of 1 Bits|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Number%20of%201%20Bits)|Easy|
@@ -55,9 +57,12 @@ My JavaScript Solution of [leetcode](http://oj.leetcode.com/problems/)
 |203|Remove Linked List Elements|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Remove%20Linked%20List%20Elements)|Easy|
 |206|Reverse Linked List|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Reverse%20Linked%20List)|Easy|
 |217|Contains Duplicate|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Contains%20Duplicate)|Easy|
+|219|Contains Duplicate II|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Contains%20Duplicate%20II)|Easy|
+|223|Rectangle Area|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Rectangle%20Area)|Easy|
 |226|Invert Binary Tree|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Invert%20Binary%20Tree)|Easy|
 |228|Summary Ranges|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Summary%20Ranges)|Easy|
 |231|Power of Two|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Power%20of%20Two)|Easy|
+|232|Implement Queue using Stacks|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Implement%20Queue%20using%20Stacks)|Easy|
 |234|Palindrome Linked List|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Palindrome%20Linked%20List)|Easy|
 |235|Lowest Common Ancestor of a Binary Search Tree|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)|Easy|
 |237|Delete Node in a Linked List|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Delete%20Node%20in%20a%20Linked%20List)|Easy|
