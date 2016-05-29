@@ -66,11 +66,17 @@ My JavaScript Solution of [leetcode](http://oj.leetcode.com/problems/)
 |234|Palindrome Linked List|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Palindrome%20Linked%20List)|Easy|
 |235|Lowest Common Ancestor of a Binary Search Tree|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)|Easy|
 |237|Delete Node in a Linked List|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Delete%20Node%20in%20a%20Linked%20List)|Easy|
+|238|Product of Array Except Self|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Product%20of%20Array%20Except%20Self)|Medium|
 |242|Valid Anagram|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Valid%20Anagram)|Easy|
 |257|Binary Tree Paths|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Binary%20Tree%20Paths)|Easy|
 |258|Add Digits|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Add%20Digits)|Easy|
 |263|Ugly Number|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Ugly%20Number)|Easy|
 |283|Move Zeroes|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Move%20Zeroes)|Easy|
 |292|Nim Game|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Nim%20Game)|Easy|
+|319|Add Digits|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Add%20Digits)|Medium|
 |326|Power of Three|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Power%20of%20Three)|Easy|
 |328|Odd Even Linked List|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Odd%20Even%20Linked%20List)|Medium|
+|338|Counting Bits|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Counting%20Bits)|Medium|
+|344|Reverse String|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Reverse%20String)|Easy|
+|347|Top K Frequent Elements|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Top%20K%20Frequent%20Elements)|Medium|
+|349|Intersection of Two Arrays|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Intersection%20of%20Two%20Arrays)|Easy|
