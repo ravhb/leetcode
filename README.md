@@ -38,6 +38,7 @@ My JavaScript Solution of [leetcode](http://oj.leetcode.com/problems/)
 |122|Best Time to Buy and Sell Stock II|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II)|Medium|
 |125|Valid Palindrome|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Valid%20Palindrome)|Easy|
 |136|Single Number|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Single%20Number)|Medium|
+|144|Binary Tree Preorder Traversal|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Binary%20Tree%20Preorder%20Traversal)|Medium|
 |148|Sort List|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Sort%20List)|Medium|
 |149|Max Points on a Line|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Max%20Points%20on%20a%20Line)|Hard|
 |150|Evaluate Reverse Polish Notation|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Evaluate%20Reverse%20Polish%20Notation)|Medium|
@@ -71,12 +72,27 @@ My JavaScript Solution of [leetcode](http://oj.leetcode.com/problems/)
 |257|Binary Tree Paths|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Binary%20Tree%20Paths)|Easy|
 |258|Add Digits|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Add%20Digits)|Easy|
 |263|Ugly Number|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Ugly%20Number)|Easy|
+|268|Missing Number|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Missing%20Number)|Medium|
 |283|Move Zeroes|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Move%20Zeroes)|Easy|
 |292|Nim Game|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Nim%20Game)|Easy|
 |319|Add Digits|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Add%20Digits)|Medium|
 |326|Power of Three|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Power%20of%20Three)|Easy|
 |328|Odd Even Linked List|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Odd%20Even%20Linked%20List)|Medium|
 |338|Counting Bits|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Counting%20Bits)|Medium|
+|343|Integer Break|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Integer%20Break)|Medium|
 |344|Reverse String|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Reverse%20String)|Easy|
 |347|Top K Frequent Elements|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Top%20K%20Frequent%20Elements)|Medium|
 |349|Intersection of Two Arrays|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Intersection%20of%20Two%20Arrays)|Easy|
+|350|Intersection of Two Arrays II|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Intersection%20of%20Two%20Arrays%20II)|Easy|
+|383|Ransom Note|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Ransom%20Note)|Easy|
+|387|First Unique Character in a String|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/First%20Unique%20Character%20in%20a%20String)|Easy|
+|389|Find the Difference|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Find%20the%20Difference)|Easy|
+|401|Binary Watch|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Binary%20Watch)|Easy|
+|404|Sum of Left Leaves|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Sum%20of%20Left%20Leaves)|Easy|
+|409|Longest Palindrome|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Longest%20Palindrome)|Easy|
+|412|Fizz Buzz|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Fizz%20Buzz)|Easy|
+|415|Add Strings|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Add%20Strings)|Easy|
+|447|Number of Boomerangs|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Number%20of%20Boomerangs)|Easy|
+|453|Minimum Moves to Equal Array Elements|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Minimum%20Moves%20to%20Equal%20Array%20Elements)|Easy|
+|455|Assign Cookies|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Assign%20Cookies)|Easy|
+|463|Add Digits|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Add%20Digits)|Easy|
