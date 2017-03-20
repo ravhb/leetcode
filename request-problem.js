@@ -3,24 +3,18 @@ var request = require('request');
 var cheerio = require('cheerio');
 
 var urls = [
-  'https://leetcode.com/problems/nth-digit/#/description',
-  'https://leetcode.com/problems/queue-reconstruction-by-height/#/description',
-  'https://leetcode.com/problems/arithmetic-slices/#/description',
-  'https://leetcode.com/problems/third-maximum-number/#/description',
-  'https://leetcode.com/problems/number-of-segments-in-a-string/#/description',
-  'https://leetcode.com/problems/path-sum-iii/#/description',
-  'https://leetcode.com/problems/arranging-coins/#/description',
-  'https://leetcode.com/problems/find-all-duplicates-in-an-array/#/description',
-  'https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/#/description',
-  'https://leetcode.com/problems/delete-node-in-a-bst/#/description',
-  'https://leetcode.com/problems/minimum-moves-to-equal-array-elements/#/description',
-  'https://leetcode.com/problems/repeated-substring-pattern/#/description',
-  'https://leetcode.com/problems/hamming-distance/#/description',
-  'https://leetcode.com/problems/first-bad-version/#/description',
-  'https://leetcode.com/problems/power-of-four/#/description',
-  'https://leetcode.com/problems/reverse-vowels-of-a-string/#/description',
-  'https://leetcode.com/problems/valid-perfect-square/#/description',
-  'https://leetcode.com/problems/guess-number-higher-or-lower/#/description'
+  'https://leetcode.com/problems/longest-common-prefix/#/description',
+  'https://leetcode.com/problems/divide-two-integers/#/description',
+  'https://leetcode.com/problems/next-permutation/#/description',
+  'https://leetcode.com/problems/search-in-rotated-sorted-array/#/description',
+  'https://leetcode.com/problems/search-insert-position/#/description',
+  'https://leetcode.com/problems/count-and-say/#/description',
+  'https://leetcode.com/problems/maximum-subarray/#/description',
+  'https://leetcode.com/problems/spiral-matrix/#/description',
+  'https://leetcode.com/problems/length-of-last-word/#/description',
+  'https://leetcode.com/problems/sqrtx/#/description',
+  'https://leetcode.com/problems/validate-binary-search-tree/',
+  'https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/#/description',
 ];
 
 urls.forEach((url) => {

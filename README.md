@@ -1,6 +1,6 @@
 leetcode
 ========
-#### Total solved: 140 (Easy: 104 Medium: 35 Hard: 1 )
+#### Total solved: 152 (Easy: 111 Medium: 40 Hard: 1 )
 My JavaScript Solution of [leetcode](http://oj.leetcode.com/problems/)
 
 
@@ -13,6 +13,7 @@ My JavaScript Solution of [leetcode](http://oj.leetcode.com/problems/)
 |9|Palindrome Number|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Palindrome%20Number)|Easy|
 |12|Integer to Roman|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Integer%20to%20Roman)|Medium|
 |13|Roman to Integer|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Roman%20to%20Integer)|Easy|
+|14|Longest Common Prefix|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Longest%20Common%20Prefix)|Easy|
 |15|3Sum|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/3Sum)|Medium|
 |16|3Sum Closest|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/3Sum%20Closest)|Medium|
 |17|Letter Combinations of a Phone Number|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Letter%20Combinations%20of%20a%20Phone%20Number)|Medium|
@@ -24,19 +25,30 @@ My JavaScript Solution of [leetcode](http://oj.leetcode.com/problems/)
 |26|Remove Duplicates from Sorted Array|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Remove%20Duplicates%20from%20Sorted%20Array)|Easy|
 |27|Remove Element|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Remove%20Element)|Easy|
 |28|Implement strStr()|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Implement%20strStr())|Easy|
+|29|Divide Two Integers|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Divide%20Two%20Integers)|Medium|
+|31|Next Permutation|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Next%20Permutation)|Medium|
+|33|Search in Rotated Sorted Array|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Search%20in%20Rotated%20Sorted%20Array)|Medium|
+|35|Search Insert Position|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Search%20Insert%20Position)|Easy|
 |36|Valid Sudoku|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Valid%20Sudoku)|Easy|
+|38|Count and Say|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Count%20and%20Say)|Easy|
 |46|Permutations|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Permutations)|Medium|
+|53|Maximum Subarray|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Maximum%20Subarray)|Easy|
+|54|Spiral Matrix|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Spiral%20Matrix)|Medium|
+|58|Length of Last Word|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Length%20of%20Last%20Word)|Easy|
 |66|Plus One|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Plus%20One)|Easy|
+|69|Sqrt(x)|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Sqrt(x))|Easy|
 |70|Climbing Stairs|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Climbing%20Stairs)|Easy|
 |73|Set Matrix Zeroes|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Set%20Matrix%20Zeroes)|Medium|
 |83|Remove Duplicates from Sorted List|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Remove%20Duplicates%20from%20Sorted%20List)|Easy|
 |88|Merge Sorted Array|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Merge%20Sorted%20Array)|Easy|
 |92|Reverse Linked List II|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Reverse%20Linked%20List%20II)|Medium|
+|98|Validate Binary Search Tree|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Validate%20Binary%20Search%20Tree)|Medium|
 |100|Same Tree|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Same%20Tree)|Easy|
 |101|Symmetric Tree|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Symmetric%20Tree)|Easy|
 |102|Binary Tree Level Order Traversal|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Binary%20Tree%20Level%20Order%20Traversal)|Easy|
 |104|Maximum Depth of Binary Tree|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Maximum%20Depth%20of%20Binary%20Tree)|Easy|
 |107|Binary Tree Level Order Traversal II|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Binary%20Tree%20Level%20Order%20Traversal%20II)|Easy|
+|108|Convert Sorted Array to Binary Search Tree|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree)|Easy|
 |110|Balanced Binary Tree|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Balanced%20Binary%20Tree)|Easy|
 |111|Minimum Depth of Binary Tree|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Minimum%20Depth%20of%20Binary%20Tree)|Easy|
 |112|Path Sum|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Path%20Sum)|Easy|
