@@ -10,9 +10,9 @@ targetDirs = fs.readdir(dir, function(err, files) {
     var count = files.length;
     files.forEach(function(value, index, arr) {
         fs.readFile(dir + '/' + value + '/README.md', {encoding: 'utf8'}, function(err, data) {
-            var no = parseInt(data.match(/######No:`(\d+)`/)[1], 10);
-            var difficulty = data.match(/######Difficulty:`(\w+)`/)[1];
-            var title = data.match(/#\[(.*)\]/)[1];
+            var no = parseInt(data.match(/###### No:`(\d+)`/)[1], 10);
+            var difficulty = data.match(/###### Difficulty:`(\w+)`/)[1];
+            var title = data.match(/# \[(.*)\]/)[1];
             var link = '[JavaScript](' + repo_url + title.replace(/\s/g, '%20') + ')';
             ret.push({
                 no: no,

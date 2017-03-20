@@ -10,13 +10,19 @@ My JavaScript Solution of [leetcode](http://oj.leetcode.com/problems/)
 |7|Reverse Integer|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Reverse%20Integer)|Easy|
 |8|String to Integer (atoi)|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/String%20to%20Integer%20(atoi))|Easy|
 |9|Palindrome Number|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Palindrome%20Number)|Easy|
+|12|Integer to Roman|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Integer%20to%20Roman)|Medium|
 |13|Roman to Integer|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Roman%20to%20Integer)|Easy|
+|15|3SumAdd Digits|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/3SumAdd%20Digits)|Medium|
+|16|3Sum Closest|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/3Sum%20Closest)|Medium|
+|17|Letter Combinations of a Phone Number|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Letter%20Combinations%20of%20a%20Phone%20Number)|Medium|
 |19|Remove Nth Node From End of List|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Remove%20Nth%20Node%20From%20End%20of%20List)|Easy|
 |20|Valid Parentheses|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Valid%20Parentheses)|Easy|
 |21|Merge Two Sorted Lists|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Merge%20Two%20Sorted%20Lists)|Easy|
+|22|Generate Parentheses|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Generate%20Parentheses)|Medium|
 |24|Swap Nodes in Pairs|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Swap%20Nodes%20in%20Pairs)|Easy|
 |26|Remove Duplicates from Sorted Array|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Remove%20Duplicates%20from%20Sorted%20Array)|Easy|
 |27|Remove Element|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Remove%20Element)|Easy|
+|28|Implement strStr()|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Implement%20strStr())|Easy|
 |36|Valid Sudoku|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Valid%20Sudoku)|Easy|
 |46|Permutations|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Permutations)|Medium|
 |66|Plus One|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Plus%20One)|Easy|
