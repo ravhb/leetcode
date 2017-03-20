@@ -1,7 +1,7 @@
 leetcode
 ========
+#### Total solved: 140 (Easy: 104 Medium: 35 Hard: 1 )
 My JavaScript Solution of [leetcode](http://oj.leetcode.com/problems/)
-#### Total solved: 151 (Easy: 1 Medium: 1 Hard: 1 )
 
 
 | No | Title | Source Code | Difficulty |
