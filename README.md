@@ -1,6 +1,6 @@
 leetcode
 ========
-#### Total solved: 152 (Easy: 111 Medium: 40 Hard: 1 )
+#### Total solved: 153 (Easy: 111 Medium: 41 Hard: 1 )
 My JavaScript Solution of [leetcode](http://oj.leetcode.com/problems/)
 
 
@@ -9,6 +9,7 @@ My JavaScript Solution of [leetcode](http://oj.leetcode.com/problems/)
 |544|Output Contest Matches|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Output%20Contest%20Matches)|Medium|
 |543|Diameter of Binary Tree|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Diameter%20of%20Binary%20Tree)|Easy|
 |542|01 Matrix|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/01%20Matrix)|Medium|
+|538|Convert BST to Greater Tree|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Convert%20BST%20to%20Greater%20Tree)|Medium|
 |532|K-diff Pairs in an Array|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/K-diff%20Pairs%20in%20an%20Array)|Easy|
 |530|Minimum Absolute Difference in BST|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Minimum%20Absolute%20Difference%20in%20BST)|Easy|
 |529|Minesweeper|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Minesweeper)|Medium|
