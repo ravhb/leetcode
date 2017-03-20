@@ -1,7 +1,7 @@
 # [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
 ###### No:`172`
 ###### Difficulty:`Easy`
-## JavaScript
+
 
 ```javascript
 /**

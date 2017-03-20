@@ -1,7 +1,7 @@
 # [Reverse String](https://leetcode.com/problems/reverse-string/)
 ###### No:`344`
 ###### Difficulty:`Easy`
-## JavaScript
+
 
 ```javascript
 /**

@@ -1,7 +1,7 @@
 # [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 ###### No:`7`
 ###### Difficulty:`Easy`
-## JavaScript
+
 
 ```javascript
 /**

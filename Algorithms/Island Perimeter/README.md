@@ -1,7 +1,7 @@
 # [Add Digits](https://leetcode.com/problems/island-perimeter/)
 ###### No:`463`
 ###### Difficulty:`Easy`
-## JavaScript
+
 
 ```javascript
 /**

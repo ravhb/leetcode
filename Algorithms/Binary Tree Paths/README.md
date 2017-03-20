@@ -1,7 +1,7 @@
 # [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
 ###### No:`257`
 ###### Difficulty:`Easy`
-## JavaScript
+
 
 ```javascript
 /**

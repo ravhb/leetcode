@@ -1,7 +1,7 @@
 # [Power of Two](https://leetcode.com/problems/power-of-two/)
 ###### No:`231`
 ###### Difficulty:`Easy`
-## JavaScript
+
 
 ```javascript
 /**

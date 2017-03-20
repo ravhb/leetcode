@@ -1,7 +1,7 @@
 # [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 ###### No:`83`
 ###### Difficulty:`Easy`
-## JavaScript
+
 
 ```javascript
 /**

@@ -1,7 +1,7 @@
 # [3Sum](https://leetcode.com/problems/3sum/)
 ###### No:`15`
 ###### Difficulty:`Medium`
-## JavaScript
+
 
 ###  Solution 1
 Result: `timeout`

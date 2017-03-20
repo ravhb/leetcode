@@ -1,7 +1,7 @@
 # [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 ###### No:`206`
 ###### Difficulty:`Easy`
-## JavaScript
+
 
 ```javascript
 /**

@@ -1,7 +1,7 @@
 # [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 ###### No:`226`
 ###### Difficulty:`Easy`
-## JavaScript
+
 
 ```javascript
 /**

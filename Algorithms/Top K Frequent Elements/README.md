@@ -1,7 +1,7 @@
 # [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 ###### No:`347`
 ###### Difficulty:`Medium`
-## JavaScript
+
 
 ```javascript
 /**

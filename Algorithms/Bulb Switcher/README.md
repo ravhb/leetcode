@@ -1,7 +1,7 @@
 # [Add Digits](https://leetcode.com/problems/add-digits/)
 ###### No:`319`
 ###### Difficulty:`Medium`
-## JavaScript
+
 
 #### Solution 1:
 refer: https://leetcode.com/discuss/91371/share-my-o-1-solution-with-explanation

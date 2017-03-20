@@ -1,7 +1,7 @@
 # [Counting Bits](https://leetcode.com/problems/counting-bits/)
 ###### No:`338`
 ###### Difficulty:`Medium`
-## JavaScript
+
 
 ```javascript
 var countBits = function(num) {

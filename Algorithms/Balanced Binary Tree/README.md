@@ -1,7 +1,7 @@
 # [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
 ###### No:`110`
 ###### Difficulty:`Easy`
-## JavaScript
+
 
 ```javascript
 /**

@@ -1,7 +1,7 @@
 # [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
 ###### No:`219`
 ###### Difficulty:`Easy`
-## JavaScript
+
 
 #### Solution 1: (slower)
 ```javascript

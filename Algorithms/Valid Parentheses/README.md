@@ -1,7 +1,7 @@
 # [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 ###### No:`20`
 ###### Difficulty:`Easy`
-## JavaScript
+
 
 ```javascript
 /**

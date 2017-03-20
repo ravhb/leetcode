@@ -1,7 +1,7 @@
 # [Min Stack](https://leetcode.com/problems/min-stack/)
 ###### No:`155`
 ###### Difficulty:`Easy`
-## JavaScript
+
 
 ```javascript
 /**

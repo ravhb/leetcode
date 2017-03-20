@@ -1,7 +1,7 @@
 # [Single Number](https://leetcode.com/problems/single-number/)
 ###### No:`136`
 ###### Difficulty:`Medium`
-## JavaScript
+
 
 ```javascript
 /**

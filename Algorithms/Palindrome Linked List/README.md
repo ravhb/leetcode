@@ -1,7 +1,7 @@
 # [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 ###### No:`234`
 ###### Difficulty:`Easy`
-## JavaScript
+
 
 ```javascript
 /**

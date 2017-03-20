@@ -1,7 +1,7 @@
 # [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 ###### No:`88`
 ###### Difficulty:`Easy`
-## JavaScript
+
 
 ```javascript
 /**

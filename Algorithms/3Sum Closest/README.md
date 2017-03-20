@@ -1,7 +1,7 @@
 # [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
 ###### No:`16`
 ###### Difficulty:`Medium`
-## JavaScript
+
 
 ```javascript
 /**

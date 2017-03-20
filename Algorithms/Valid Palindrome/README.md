@@ -1,7 +1,7 @@
 # [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 ###### No:`125`
 ###### Difficulty:`Easy`
-## JavaScript
+
 
 ```javascript
 /**

@@ -1,7 +1,7 @@
 # [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
 ###### No:`8`
 ###### Difficulty:`Easy`
-## JavaScript
+
 
 ```javascript
 /**

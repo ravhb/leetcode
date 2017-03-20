@@ -1,7 +1,7 @@
 # [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 ###### No:`70`
 ###### Difficulty:`Easy`
-## JavaScript
+
 
 ```javascript
 /**

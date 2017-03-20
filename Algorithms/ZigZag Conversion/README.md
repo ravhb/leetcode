@@ -1,7 +1,7 @@
 # [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 ###### No:`6`
 ###### Difficulty:`Easy`
-## JavaScript
+
 
 ```javascript
 /**

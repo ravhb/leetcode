@@ -1,7 +1,7 @@
 # [Summary Ranges](https://leetcode.com/problems/summary-ranges/)
 ###### No:`228`
 ###### Difficulty:`Easy`
-## JavaScript
+
 
 ```javascript
 /**

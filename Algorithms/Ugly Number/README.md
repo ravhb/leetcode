@@ -1,7 +1,7 @@
 # [Ugly Number](https://leetcode.com/problems/ugly-number/)
 ###### No:`263`
 ###### Difficulty:`Easy`
-## JavaScript
+
 
 ```javascript
 /**

@@ -1,7 +1,7 @@
 # [01 Matrix](https://leetcode.com/problems/01-matrix/#/description)
 ###### No:`542`
 ###### Difficulty:`Medium`
-## JavaScript
+
 
 ### LeetCode Weekly Contest 24
 ### 542. 01 Matrix

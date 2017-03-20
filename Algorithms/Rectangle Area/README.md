@@ -1,7 +1,7 @@
 # [Rectangle Area](https://leetcode.com/problems/rectangle-area/)
 ###### No:`223`
 ###### Difficulty:`Easy`
-## JavaScript
+
 
 ```javascript
 /**

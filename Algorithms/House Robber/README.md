@@ -1,7 +1,7 @@
 # [House Robber](https://leetcode.com/problems/house-robber/)
 ###### No:`198`
 ###### Difficulty:`Easy`
-## JavaScript
+
 
 ```javascript
 /**

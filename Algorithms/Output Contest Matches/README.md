@@ -1,7 +1,7 @@
 # [Output Contest Matches](https://leetcode.com/problems/output-contest-matches/)
 ###### No:`544`
 ###### Difficulty:`Medium`
-## JavaScript
+
 
 ### LeetCode Weekly Contest 24
 ### 544. Output Contest Matches

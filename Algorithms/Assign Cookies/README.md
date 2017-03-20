@@ -1,7 +1,7 @@
 # [Assign Cookies](https://leetcode.com/problems/assign-cookies/)
 ###### No:`455`
 ###### Difficulty:`Easy`
-## JavaScript
+
 
 ```javascript
 /**

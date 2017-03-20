@@ -1,7 +1,7 @@
 # [Majority Element](https://leetcode.com/problems/majority-element/)
 ###### No:`169`
 ###### Difficulty:`Easy`
-## JavaScript
+
 
 ```javascript
 /**

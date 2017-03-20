@@ -1,7 +1,7 @@
 # [Power of Three](https://leetcode.com/problems/power-of-three/)
 ###### No:`326`
 ###### Difficulty:`Easy`
-## JavaScript
+
 
 ```javascript
 /**

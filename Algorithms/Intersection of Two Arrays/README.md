@@ -1,7 +1,7 @@
 # [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 ###### No:`349`
 ###### Difficulty:`Easy`
-## JavaScript
+
 
 ```javascript
 /**

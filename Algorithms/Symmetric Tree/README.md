@@ -1,7 +1,7 @@
 # [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 ###### No:`101`
 ###### Difficulty:`Easy`
-## JavaScript
+
 
 ```javascript
 /**
