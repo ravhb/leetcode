@@ -1,10 +1,8 @@
 leetcode
 ========
 My JavaScript Solution of [leetcode](http://oj.leetcode.com/problems/)
-### Total solved: 151
-##### Easy: 1
-##### Easy: 1
-##### Easy: 1
+#### Total solved: 151 (Easy: 1 Medium: 1 Hard: 1 )
+
 
 | No | Title | Source Code | Difficulty |
 |----| ----- | -------- | ---------- |
