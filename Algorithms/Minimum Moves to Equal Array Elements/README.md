@@ -5,4 +5,13 @@
 
 
 ```js
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var minMoves = function(nums) {
+    var min = Math.min.apply(null, nums)
+    
+    return nums.reduce((p, c) => p + c - min, 0);
+};
 ```
