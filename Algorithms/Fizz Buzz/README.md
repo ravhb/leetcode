@@ -1,7 +1,7 @@
-#[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
-######No:`412`
-######Difficulty:`Easy`
-##JavaScript
+# [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
+###### No:`412`
+###### Difficulty:`Easy`
+## JavaScript
 
 ```javascript
 /**

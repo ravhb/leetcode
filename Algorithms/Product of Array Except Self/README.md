@@ -1,7 +1,7 @@
-#[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
-######No:`238`
-######Difficulty:`Medium`
-##JavaScript
+# [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+###### No:`238`
+###### Difficulty:`Medium`
+## JavaScript
 
 ```javascript
 /**

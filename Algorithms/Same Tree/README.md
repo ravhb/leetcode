@@ -1,7 +1,7 @@
-#[Same Tree](https://leetcode.com/problems/same-tree/)
-######No:`100`
-######Difficulty:`Easy`
-##JavaScript
+# [Same Tree](https://leetcode.com/problems/same-tree/)
+###### No:`100`
+###### Difficulty:`Easy`
+## JavaScript
 
 ```javascript
 /**

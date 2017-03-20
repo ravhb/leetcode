@@ -1,7 +1,7 @@
-#[Integer Break](https://leetcode.com/problems/integer-break/)
-######No:`343`
-######Difficulty:`Medium`
-##JavaScript
+# [Integer Break](https://leetcode.com/problems/integer-break/)
+###### No:`343`
+###### Difficulty:`Medium`
+## JavaScript
 
 ```javascript
 /**

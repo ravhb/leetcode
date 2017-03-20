@@ -1,7 +1,7 @@
-#[Find the Difference](https://leetcode.com/problems/find-the-difference/)
-######No:`389`
-######Difficulty:`Easy`
-##JavaScript
+# [Find the Difference](https://leetcode.com/problems/find-the-difference/)
+###### No:`389`
+###### Difficulty:`Easy`
+## JavaScript
 
 ```javascript
 /**

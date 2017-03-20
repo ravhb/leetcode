@@ -1,9 +1,9 @@
-#[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
-######No:`219`
-######Difficulty:`Easy`
-##JavaScript
+# [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
+###### No:`219`
+###### Difficulty:`Easy`
+## JavaScript
 
-####Solution 1: (slower)
+#### Solution 1: (slower)
 ```javascript
 var containsNearbyDuplicate = function(nums, k) {
     for(var i = 0; i < nums.length; i++) {
@@ -17,7 +17,7 @@ var containsNearbyDuplicate = function(nums, k) {
 };
 ```
 
-####Solution 2: (faster)
+#### Solution 2: (faster)
 ```javascript
 var containsNearbyDuplicate = function(nums, k) {
     var index = {};

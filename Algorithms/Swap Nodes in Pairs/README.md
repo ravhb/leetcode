@@ -1,7 +1,7 @@
-#[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
-######No:`24`
-######Difficulty:`Easy`
-##JavaScript
+# [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+###### No:`24`
+###### Difficulty:`Easy`
+## JavaScript
 
 ```javascript
 /**

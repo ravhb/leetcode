@@ -1,7 +1,7 @@
-#[Two Sum](https://leetcode.com/problems/two-sum/)
-######No:`1`
-######Difficulty:`Easy`
-##JavaScript
+# [Two Sum](https://leetcode.com/problems/two-sum/)
+###### No:`1`
+###### Difficulty:`Easy`
+## JavaScript
 
 ```javascript
 /**

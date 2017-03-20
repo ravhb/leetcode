@@ -1,7 +1,7 @@
-#[Missing Number](https://leetcode.com/problems/missing-number/)
-######No:`268`
-######Difficulty:`Medium`
-##JavaScript
+# [Missing Number](https://leetcode.com/problems/missing-number/)
+###### No:`268`
+###### Difficulty:`Medium`
+## JavaScript
 
 ```javascript
 /**

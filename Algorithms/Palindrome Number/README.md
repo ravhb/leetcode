@@ -1,7 +1,7 @@
-#[Palindrome Number](https://leetcode.com/problems/palindrome-number/)
-######No:`9`
-######Difficulty:`Easy`
-##JavaScript
+# [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+###### No:`9`
+###### Difficulty:`Easy`
+## JavaScript
 
 ```javascript
 /**

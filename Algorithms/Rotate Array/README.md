@@ -1,7 +1,7 @@
-#[Rotate Array](https://leetcode.com/problems/rotate-array/)
-######No:`189`
-######Difficulty:`Easy`
-##JavaScript
+# [Rotate Array](https://leetcode.com/problems/rotate-array/)
+###### No:`189`
+###### Difficulty:`Easy`
+## JavaScript
 
 ```javascript
 /**

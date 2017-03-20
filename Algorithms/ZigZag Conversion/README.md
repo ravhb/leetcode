@@ -1,7 +1,7 @@
-#[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)
-######No:`6`
-######Difficulty:`Easy`
-##JavaScript
+# [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)
+###### No:`6`
+###### Difficulty:`Easy`
+## JavaScript
 
 ```javascript
 /**
@@ -33,7 +33,7 @@ var convert = function(s, numRows) {
     return ret;
 };
 ```
-###How to solve?
+### How to solve?
 ```
 1         9        17
 2      8 10     16 18
@@ -42,9 +42,9 @@ var convert = function(s, numRows) {
 5        13
 ```
 
-######1.Create `arrs = [[],[],[],[],[]]`
+###### 1.Create `arrs = [[],[],[],[],[]]`
 
-######2.traverse `chars` than save the every char like the following:
+###### 2.traverse `chars` than save the every char like the following:
 arrs[0] = [1, 9, 17]；
 arrs[1] = [2, 8, 10, 16, 18]；
 arrs[2] = [3, 7, 11, 15]；

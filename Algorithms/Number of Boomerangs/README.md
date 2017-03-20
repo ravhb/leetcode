@@ -1,7 +1,7 @@
-#[Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/)
-######No:`447`
-######Difficulty:`Easy`
-##JavaScript
+# [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/)
+###### No:`447`
+###### Difficulty:`Easy`
+## JavaScript
 
 ### Solution:
 Get each 2 points' distance. For one point, save the distance as the key and count as the value into a map. The Boomerangs which contains this point will be count * (count - 1).

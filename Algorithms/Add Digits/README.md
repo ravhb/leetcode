@@ -1,9 +1,9 @@
-#[Add Digits](https://leetcode.com/problems/add-digits/)
-######No:`258`
-######Difficulty:`Easy`
-##JavaScript
+# [Add Digits](https://leetcode.com/problems/add-digits/)
+###### No:`258`
+###### Difficulty:`Easy`
+## JavaScript
 
-####Solution 1:
+#### Solution 1:
 ```javascript
 /**
  * @param {number} num
@@ -23,7 +23,7 @@ var addDigits = function(num) {
 ```
 
 
-####Solution 2:
+#### Solution 2:
 ```javascript
 /**
  * @param {number} num

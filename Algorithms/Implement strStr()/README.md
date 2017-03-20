@@ -1,7 +1,7 @@
-#[Implement strStr()](https://leetcode.com/problems/implement-strstr)
-######No:`28`
-######Difficulty:`Easy`
-##JavaScript
+# [Implement strStr()](https://leetcode.com/problems/implement-strstr)
+###### No:`28`
+###### Difficulty:`Easy`
+## JavaScript
 
 ```javascript
 /**

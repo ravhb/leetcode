@@ -1,7 +1,7 @@
-#[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
-######No:`149`
-######Difficulty:`Hard`
-##CPP
+# [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
+###### No:`149`
+###### Difficulty:`Hard`
+## CPP
 
 ```cpp
 /**

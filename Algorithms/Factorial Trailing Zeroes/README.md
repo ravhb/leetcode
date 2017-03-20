@@ -1,7 +1,7 @@
-#[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
-######No:`172`
-######Difficulty:`Easy`
-##JavaScript
+# [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
+###### No:`172`
+###### Difficulty:`Easy`
+## JavaScript
 
 ```javascript
 /**
@@ -19,7 +19,7 @@ var trailingZeroes = function(n) {
 };
 ```
 
-###How to solve?
+### How to solve?
 Only 2 * 5 can make 0.
 4, 6, 8 can represent as 2 * 2， 2 * 3， 2 * 2 * 2. So 2 is more then 5.You need only count the number 5.
 5 catains one 5;

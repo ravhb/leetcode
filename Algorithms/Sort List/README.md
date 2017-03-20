@@ -1,7 +1,7 @@
-#[Sort List](https://leetcode.com/problems/sort-list/)
-######No:`148`
-######Difficulty:`Medium`
-##JavaScript
+# [Sort List](https://leetcode.com/problems/sort-list/)
+###### No:`148`
+###### Difficulty:`Medium`
+## JavaScript
 
 ```javascript
 /**

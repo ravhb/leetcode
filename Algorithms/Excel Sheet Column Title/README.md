@@ -1,7 +1,7 @@
-#[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
-######No:`168`
-######Difficulty:`Easy`
-##JavaScript
+# [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
+###### No:`168`
+###### Difficulty:`Easy`
+## JavaScript
 
 ```javascript
 /**

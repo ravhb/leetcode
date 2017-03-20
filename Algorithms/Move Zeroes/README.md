@@ -1,7 +1,7 @@
-#[Move Zeroes](https://leetcode.com/problems/move-zeroes/)
-######No:`283`
-######Difficulty:`Easy`
-##JavaScript
+# [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+###### No:`283`
+###### Difficulty:`Easy`
+## JavaScript
 
 ```javascript
 /**

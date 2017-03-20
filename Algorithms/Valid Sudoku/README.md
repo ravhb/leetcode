@@ -1,7 +1,7 @@
-#[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
-######No:`36`
-######Difficulty:`Easy`
-##JavaScript
+# [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
+###### No:`36`
+###### Difficulty:`Easy`
+## JavaScript
 
 ```javascript
 /**

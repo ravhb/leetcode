@@ -1,7 +1,7 @@
-#[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
-######No:`151`
-######Difficulty:`Easy`
-##JavaScript
+# [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
+###### No:`151`
+###### Difficulty:`Easy`
+## JavaScript
 
 ```javascript
 /**

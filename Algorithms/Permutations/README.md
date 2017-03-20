@@ -1,7 +1,7 @@
-#[Permutations](https://leetcode.com/problems/permutations/)
-######No:`46`
-######Difficulty:`Medium`
-##JavaScript
+# [Permutations](https://leetcode.com/problems/permutations/)
+###### No:`46`
+###### Difficulty:`Medium`
+## JavaScript
 
 ```javascript
 /**

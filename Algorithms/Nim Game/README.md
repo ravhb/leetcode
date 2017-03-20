@@ -1,7 +1,7 @@
-#[Nim Game](https://leetcode.com/problems/nim-game/)
-######No:`292`
-######Difficulty:`Easy`
-##JavaScript
+# [Nim Game](https://leetcode.com/problems/nim-game/)
+###### No:`292`
+###### Difficulty:`Easy`
+## JavaScript
 
 ```javascript
 /**

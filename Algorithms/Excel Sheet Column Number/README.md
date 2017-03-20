@@ -1,7 +1,7 @@
-#[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
-######No:`171`
-######Difficulty:`Easy`
-##JavaScript
+# [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
+###### No:`171`
+###### Difficulty:`Easy`
+## JavaScript
 
 ```javascript
 /**

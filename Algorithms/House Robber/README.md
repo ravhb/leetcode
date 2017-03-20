@@ -1,7 +1,7 @@
-#[House Robber](https://leetcode.com/problems/house-robber/)
-######No:`198`
-######Difficulty:`Easy`
-##JavaScript
+# [House Robber](https://leetcode.com/problems/house-robber/)
+###### No:`198`
+###### Difficulty:`Easy`
+## JavaScript
 
 ```javascript
 /**
@@ -27,9 +27,9 @@ var rob = function(nums) {
 ```
 
 ```
-###How to solve?
+### How to solve?
 ```
-#####Using DP.
+##### Using DP.
 max[0] = nums[0];
 max[1] = Math.max(nums[0], nums[1]);
 max[n] = Math.max(max[n] + max[n - 2], max[n -1]);

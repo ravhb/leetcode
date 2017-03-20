@@ -1,7 +1,7 @@
-#[Counting Bits](https://leetcode.com/problems/counting-bits/)
-######No:`338`
-######Difficulty:`Medium`
-##JavaScript
+# [Counting Bits](https://leetcode.com/problems/counting-bits/)
+###### No:`338`
+###### Difficulty:`Medium`
+## JavaScript
 
 ```javascript
 var countBits = function(num) {
@@ -16,7 +16,7 @@ var countBits = function(num) {
 };
 ```
 
-####How to solve?
+#### How to solve?
 DP:
 countBits[0] = 0;
 countBits[1] = 1;

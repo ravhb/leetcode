@@ -1,7 +1,7 @@
-#[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
-######No:`17`
-######Difficulty:`Medium`
-##JavaScript
+# [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+###### No:`17`
+###### Difficulty:`Medium`
+## JavaScript
 
 ```javascript
 /**

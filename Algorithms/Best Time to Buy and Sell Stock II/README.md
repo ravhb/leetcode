@@ -1,7 +1,7 @@
-#[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
-######No:`122`
-######Difficulty:`Medium`
-##JavaScript
+# [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+###### No:`122`
+###### Difficulty:`Medium`
+## JavaScript
 
 ```javascript
 /**

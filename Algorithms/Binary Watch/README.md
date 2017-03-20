@@ -1,7 +1,7 @@
-#[Binary Watch](https://leetcode.com/problems/binary-watch/)
-######No:`401`
-######Difficulty:`Easy`
-##JavaScript
+# [Binary Watch](https://leetcode.com/problems/binary-watch/)
+###### No:`401`
+###### Difficulty:`Easy`
+## JavaScript
 
 ```javascript
 /**

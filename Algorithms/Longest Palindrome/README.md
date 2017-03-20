@@ -1,7 +1,7 @@
-#[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
-######No:`409`
-######Difficulty:`Easy`
-##JavaScript
+# [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
+###### No:`409`
+###### Difficulty:`Easy`
+## JavaScript
 
 ```javascript
 /**

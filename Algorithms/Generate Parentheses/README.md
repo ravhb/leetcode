@@ -1,7 +1,7 @@
-#[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
-######No:`22`
-######Difficulty:`Medium`
-##JavaScript
+# [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+###### No:`22`
+###### Difficulty:`Medium`
+## JavaScript
 
 ```javascript
 /**

@@ -1,7 +1,7 @@
-#[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
-######No:`73`
-######Difficulty:`Medium`
-##JavaScript
+# [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+###### No:`73`
+###### Difficulty:`Medium`
+## JavaScript
 
 ```javascript
 /**

@@ -1,7 +1,7 @@
-#[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
-######No:`118`
-######Difficulty:`Easy`
-##JavaScript
+# [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+###### No:`118`
+###### Difficulty:`Easy`
+## JavaScript
 
 ```javascript
 /**

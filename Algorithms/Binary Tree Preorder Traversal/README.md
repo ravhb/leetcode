@@ -1,7 +1,7 @@
-#[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
-######No:`144`
-######Difficulty:`Medium`
-##JavaScript
+# [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+###### No:`144`
+###### Difficulty:`Medium`
+## JavaScript
 
 ```javascript
 /**

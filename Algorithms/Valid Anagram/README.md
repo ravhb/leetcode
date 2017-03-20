@@ -1,7 +1,7 @@
-#[Valid Anagram](https://leetcode.com/problems/valid-anagram/)
-######No:`242`
-######Difficulty:`Easy`
-##JavaScript
+# [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+###### No:`242`
+###### Difficulty:`Easy`
+## JavaScript
 
 ```javascript
 /**

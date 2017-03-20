@@ -1,7 +1,7 @@
-#[Remove Element](https://leetcode.com/problems/remove-element/)
-######No:`27`
-######Difficulty:`Easy`
-##JavaScript
+# [Remove Element](https://leetcode.com/problems/remove-element/)
+###### No:`27`
+###### Difficulty:`Easy`
+## JavaScript
 
 ```javascript
 /**

@@ -1,7 +1,7 @@
-#[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
-######No:`110`
-######Difficulty:`Easy`
-##JavaScript
+# [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+###### No:`110`
+###### Difficulty:`Easy`
+## JavaScript
 
 ```javascript
 /**
@@ -40,5 +40,5 @@ var isBalanced = function(root) {
 };
 ```
 
-####Description:
+#### Description:
 Calculate the deepth of the Binary Tree is also a problem in here: [https://leetcode.com/problems/maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)

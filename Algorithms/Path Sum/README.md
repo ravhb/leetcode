@@ -1,7 +1,7 @@
-#[Path Sum](https://leetcode.com/problems/path-sum/)
-######No:`112`
-######Difficulty:`Easy`
-##JavaScript
+# [Path Sum](https://leetcode.com/problems/path-sum/)
+###### No:`112`
+###### Difficulty:`Easy`
+## JavaScript
 
 ```javascript
 /**

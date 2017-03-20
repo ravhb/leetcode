@@ -1,7 +1,7 @@
-#[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)
-######No:`404`
-######Difficulty:`Easy`
-##JavaScript
+# [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)
+###### No:`404`
+###### Difficulty:`Easy`
+## JavaScript
 
 ```javascript
 /**

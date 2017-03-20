@@ -1,7 +1,7 @@
-#[Reverse Integer](https://leetcode.com/problems/reverse-integer/)
-######No:`7`
-######Difficulty:`Easy`
-##JavaScript
+# [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
+###### No:`7`
+###### Difficulty:`Easy`
+## JavaScript
 
 ```javascript
 /**
@@ -22,6 +22,6 @@ var reverse = function(x) {
     }
 };
 ```
-######PS:
+###### PS:
 Did you notice that the reversed integer might overflow? Assume the input is a 32-bit integer, then the reverse of 1000000003 overflows. How should you handle such cases?
 For the purpose of this problem, assume that your function returns 0 when the reversed integer overflows.

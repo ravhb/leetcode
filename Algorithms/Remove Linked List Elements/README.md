@@ -1,7 +1,7 @@
-#[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
-######No:`203`
-######Difficulty:`Easy`
-##JavaScript
+# [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
+###### No:`203`
+###### Difficulty:`Easy`
+## JavaScript
 
 ```javascript
 /**

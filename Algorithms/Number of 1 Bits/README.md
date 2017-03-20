@@ -1,7 +1,7 @@
-#[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
-######No:`191`
-######Difficulty:`Easy`
-##JavaScript
+# [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+###### No:`191`
+###### Difficulty:`Easy`
+## JavaScript
 
 ```javascript
 /**

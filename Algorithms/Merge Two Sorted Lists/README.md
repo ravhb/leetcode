@@ -1,7 +1,7 @@
-#[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
-######No:`21`
-######Difficulty:`Easy`
-##JavaScript
+# [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+###### No:`21`
+###### Difficulty:`Easy`
+## JavaScript
 
 ```javascript
 /**

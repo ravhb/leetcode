@@ -1,7 +1,7 @@
-#[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-######No:`217`
-######Difficulty:`Easy`
-##JavaScript
+# [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+###### No:`217`
+###### Difficulty:`Easy`
+## JavaScript
 
 ```javascript
 /**

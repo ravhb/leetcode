@@ -1,7 +1,7 @@
-#[Single Number](https://leetcode.com/problems/single-number/)
-######No:`136`
-######Difficulty:`Medium`
-##JavaScript
+# [Single Number](https://leetcode.com/problems/single-number/)
+###### No:`136`
+###### Difficulty:`Medium`
+## JavaScript
 
 ```javascript
 /**
@@ -15,6 +15,6 @@ var singleNumber = function(nums) {
 };
 ```
 
-####Description:
+#### Description:
 Any number that XOR itselt will be 0;
 

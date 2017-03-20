@@ -1,7 +1,7 @@
-#[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
-######No:`237`
-######Difficulty:`Easy`
-##JavaScript
+# [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
+###### No:`237`
+###### Difficulty:`Easy`
+## JavaScript
 
 ```javascript
 /**

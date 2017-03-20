@@ -1,7 +1,7 @@
-#[Ransom Note](https://leetcode.com/problems/ransom-note/)
-######No:`383`
-######Difficulty:`Easy`
-##JavaScript
+# [Ransom Note](https://leetcode.com/problems/ransom-note/)
+###### No:`383`
+###### Difficulty:`Easy`
+## JavaScript
 
 ```javascript
 /**

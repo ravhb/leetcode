@@ -1,7 +1,7 @@
-#[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
-######No:`13`
-######Difficulty:`Easy`
-##JavaScript
+# [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+###### No:`13`
+###### Difficulty:`Easy`
+## JavaScript
 
 ```javascript
 /**

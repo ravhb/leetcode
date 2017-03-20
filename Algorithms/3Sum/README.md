@@ -1,9 +1,9 @@
-#[3SumAdd Digits](https://leetcode.com/problems/3sum/)
-######No:`15`
-######Difficulty:`Medium`
-##JavaScript
+# [3SumAdd Digits](https://leetcode.com/problems/3sum/)
+###### No:`15`
+###### Difficulty:`Medium`
+## JavaScript
 
-### Solution 1
+###  Solution 1
 Result: `timeout`
 How: Use the data structure SumNode. Make sure the key is unique.
 ```javascript
@@ -56,7 +56,7 @@ var threeSum = function (nums) {
 
 ```
 
-### Solution 2
+###  Solution 2
 Result: timeout
 ```javascript
 /**

@@ -1,7 +1,7 @@
-#[Happy Number](https://leetcode.com/problems/happy-number/)
-######No:`202`
-######Difficulty:`Easy`
-##JavaScript
+# [Happy Number](https://leetcode.com/problems/happy-number/)
+###### No:`202`
+###### Difficulty:`Easy`
+## JavaScript
 
 ```javascript
 /**

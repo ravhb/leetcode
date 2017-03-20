@@ -1,7 +1,7 @@
-#[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)
-######No:`165`
-######Difficulty:`Easy`
-##JavaScript
+# [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)
+###### No:`165`
+###### Difficulty:`Easy`
+## JavaScript
 
 ```javascript
 /**

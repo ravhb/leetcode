@@ -1,7 +1,7 @@
-#[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)
-######No:`453`
-######Difficulty:`Easy`
-##JavaScript
+# [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)
+###### No:`453`
+###### Difficulty:`Easy`
+## JavaScript
 
 ### Solution:
 Increasing n-i elements by 1 is same as decrease 1 elements by 1.
