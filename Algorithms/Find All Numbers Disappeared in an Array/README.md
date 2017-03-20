@@ -5,4 +5,24 @@
 
 
 ```js
+/**
+ * @param {number[]} nums
+ * @return {number[]}
+ */
+var findDisappearedNumbers = function(nums) {
+    var map = {};
+    var ret = [];
+    
+    nums.forEach(function(num) {
+        map[num] = true;
+    });
+    
+    for (var i = 1; i <= nums.length; i++) {
+        if (map[i] === undefined) {
+            ret.push(i);
+        }
+    }
+    
+    return ret;
+};
 ```
