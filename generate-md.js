@@ -44,7 +44,7 @@ targetDirs = fs.readdir(dir, function(err, files) {
 
 proxy.once('readDone', function() {
   ret.sort(function(a, b) {
-    return a.no - b.no;
+    return b.no - a.no;
   });
 
   var content = [
