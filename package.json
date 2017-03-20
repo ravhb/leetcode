@@ -1,0 +1,23 @@
+{
+  "name": "request-leetcode",
+  "version": "1.0.0",
+  "description": "leetcode\r ========\r My JavaScript Solution of [leetcode](http://oj.leetcode.com/problems/)",
+  "main": "request.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duteng/leedcode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duteng/leedcode/issues"
+  },
+  "homepage": "https://github.com/duteng/leedcode#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.81.0"
+  }
+}
