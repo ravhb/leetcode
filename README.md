@@ -41,9 +41,12 @@ My JavaScript Solution of [leetcode](http://oj.leetcode.com/problems/)
 |112|Path Sum|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Path%20Sum)|Easy|
 |118|Pascal's Triangle|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Pascal's%20Triangle)|Easy|
 |119|Pascal's Triangle II|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Pascal's%20Triangle%20II)|Easy|
+|121|Best Time to Buy and Sell Stock|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Best%20Time%20to%20Buy%20and%20Sell%20Stock)|Easy|
 |122|Best Time to Buy and Sell Stock II|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II)|Medium|
 |125|Valid Palindrome|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Valid%20Palindrome)|Easy|
 |136|Single Number|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Single%20Number)|Medium|
+|138|Copy List with Random Pointer|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Copy%20List%20with%20Random%20Pointer)|Medium|
+|141|Linked List Cycle|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Linked%20List%20Cycle)|Easy|
 |144|Binary Tree Preorder Traversal|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Binary%20Tree%20Preorder%20Traversal)|Medium|
 |148|Sort List|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Sort%20List)|Medium|
 |149|Max Points on a Line|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Max%20Points%20on%20a%20Line)|Hard|
@@ -62,6 +65,8 @@ My JavaScript Solution of [leetcode](http://oj.leetcode.com/problems/)
 |198|House Robber|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/House%20Robber)|Easy|
 |202|Happy Number|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Happy%20Number)|Easy|
 |203|Remove Linked List Elements|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Remove%20Linked%20List%20Elements)|Easy|
+|204|Count Primes|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Count%20Primes)|Easy|
+|205|Isomorphic Strings|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Isomorphic%20Strings)|Easy|
 |206|Reverse Linked List|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Reverse%20Linked%20List)|Easy|
 |217|Contains Duplicate|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Contains%20Duplicate)|Easy|
 |219|Contains Duplicate II|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Contains%20Duplicate%20II)|Easy|
@@ -79,26 +84,43 @@ My JavaScript Solution of [leetcode](http://oj.leetcode.com/problems/)
 |258|Add Digits|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Add%20Digits)|Easy|
 |263|Ugly Number|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Ugly%20Number)|Easy|
 |268|Missing Number|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Missing%20Number)|Medium|
+|278|First Bad Version|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/First%20Bad%20Version)|Easy|
 |283|Move Zeroes|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Move%20Zeroes)|Easy|
 |292|Nim Game|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Nim%20Game)|Easy|
 |319|Add Digits|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Add%20Digits)|Medium|
 |326|Power of Three|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Power%20of%20Three)|Easy|
 |328|Odd Even Linked List|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Odd%20Even%20Linked%20List)|Medium|
 |338|Counting Bits|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Counting%20Bits)|Medium|
+|342|Power of Four|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Power%20of%20Four)|Easy|
 |343|Integer Break|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Integer%20Break)|Medium|
 |344|Reverse String|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Reverse%20String)|Easy|
+|345|Reverse Vowels of a String|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Reverse%20Vowels%20of%20a%20String)|Easy|
 |347|Top K Frequent Elements|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Top%20K%20Frequent%20Elements)|Medium|
 |349|Intersection of Two Arrays|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Intersection%20of%20Two%20Arrays)|Easy|
 |350|Intersection of Two Arrays II|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Intersection%20of%20Two%20Arrays%20II)|Easy|
+|367|Valid Perfect Square|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Valid%20Perfect%20Square)|Easy|
+|374|Guess Number Higher or Lower|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Guess%20Number%20Higher%20or%20Lower)|Easy|
 |383|Ransom Note|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Ransom%20Note)|Easy|
 |387|First Unique Character in a String|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/First%20Unique%20Character%20in%20a%20String)|Easy|
 |389|Find the Difference|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Find%20the%20Difference)|Easy|
+|400|Nth Digit|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Nth%20Digit)|Easy|
 |401|Binary Watch|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Binary%20Watch)|Easy|
 |404|Sum of Left Leaves|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Sum%20of%20Left%20Leaves)|Easy|
+|406|Queue Reconstruction by Height|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Queue%20Reconstruction%20by%20Height)|Medium|
 |409|Longest Palindrome|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Longest%20Palindrome)|Easy|
 |412|Fizz Buzz|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Fizz%20Buzz)|Easy|
+|413|Arithmetic Slices|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Arithmetic%20Slices)|Medium|
+|414|Third Maximum Number|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Third%20Maximum%20Number)|Easy|
 |415|Add Strings|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Add%20Strings)|Easy|
+|434|Number of Segments in a String|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Number%20of%20Segments%20in%20a%20String)|Easy|
+|437|Path Sum III|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Path%20Sum%20III)|Easy|
+|441|Arranging Coins|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Arranging%20Coins)|Easy|
+|442|Find All Duplicates in an Array|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Find%20All%20Duplicates%20in%20an%20Array)|Medium|
 |447|Number of Boomerangs|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Number%20of%20Boomerangs)|Easy|
+|448|Find All Numbers Disappeared in an Array|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Find%20All%20Numbers%20Disappeared%20in%20an%20Array)|Easy|
+|450|Delete Node in a BST|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Delete%20Node%20in%20a%20BST)|Medium|
 |453|Minimum Moves to Equal Array Elements|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Minimum%20Moves%20to%20Equal%20Array%20Elements)|Easy|
 |455|Assign Cookies|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Assign%20Cookies)|Easy|
+|459|Repeated Substring Pattern|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Repeated%20Substring%20Pattern)|Easy|
+|461|Hamming Distance|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Hamming%20Distance)|Easy|
 |463|Add Digits|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Add%20Digits)|Easy|
