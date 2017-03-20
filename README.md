@@ -12,7 +12,7 @@ My JavaScript Solution of [leetcode](http://oj.leetcode.com/problems/)
 |9|Palindrome Number|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Palindrome%20Number)|Easy|
 |12|Integer to Roman|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Integer%20to%20Roman)|Medium|
 |13|Roman to Integer|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Roman%20to%20Integer)|Easy|
-|15|3SumAdd Digits|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/3SumAdd%20Digits)|Medium|
+|15|3Sum|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/3Sum)|Medium|
 |16|3Sum Closest|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/3Sum%20Closest)|Medium|
 |17|Letter Combinations of a Phone Number|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Letter%20Combinations%20of%20a%20Phone%20Number)|Medium|
 |19|Remove Nth Node From End of List|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Remove%20Nth%20Node%20From%20End%20of%20List)|Easy|

@@ -1,4 +1,4 @@
-# [3SumAdd Digits](https://leetcode.com/problems/3sum/)
+# [3Sum](https://leetcode.com/problems/3sum/)
 ###### No:`15`
 ###### Difficulty:`Medium`
 ## JavaScript
