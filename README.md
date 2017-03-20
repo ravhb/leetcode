@@ -124,3 +124,24 @@ My JavaScript Solution of [leetcode](http://oj.leetcode.com/problems/)
 |459|Repeated Substring Pattern|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Repeated%20Substring%20Pattern)|Easy|
 |461|Hamming Distance|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Hamming%20Distance)|Easy|
 |463|Add Digits|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Add%20Digits)|Easy|
+|476|Number Complement|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Number%20Complement)|Easy|
+|482|License Key Formatting|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/License%20Key%20Formatting)|Medium|
+|485|Max Consecutive Ones|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Max%20Consecutive%20Ones)|Easy|
+|492|Construct the Rectangle|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Construct%20the%20Rectangle)|Easy|
+|496|Next Greater Element I|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Next%20Greater%20Element%20I)|Easy|
+|500|Keyboard Row|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Keyboard%20Row)|Easy|
+|501|Find Mode in Binary Search Tree|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Find%20Mode%20in%20Binary%20Search%20Tree)|Easy|
+|503|Next Greater Element II|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Next%20Greater%20Element%20II)|Medium|
+|504|Base 7|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Base%207)|Easy|
+|506|Relative Ranks|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Relative%20Ranks)|Easy|
+|508|Most Frequent Subtree Sum|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Most%20Frequent%20Subtree%20Sum)|Medium|
+|513|Find Bottom Left Tree Value|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Find%20Bottom%20Left%20Tree%20Value)|Medium|
+|515|Find Largest Value in Each Tree Row|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Find%20Largest%20Value%20in%20Each%20Tree%20Row)|Medium|
+|520|Detect Capital|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Detect%20Capital)|Easy|
+|526|Beautiful Arrangement|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Beautiful%20Arrangement)|Medium|
+|529|Minesweeper|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Minesweeper)|Medium|
+|530|Minimum Absolute Difference in BST|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Minimum%20Absolute%20Difference%20in%20BST)|Easy|
+|532|K-diff Pairs in an Array|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/K-diff%20Pairs%20in%20an%20Array)|Easy|
+|542|01 Matrix|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/01%20Matrix)|Medium|
+|543|Diameter of Binary Tree|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Diameter%20of%20Binary%20Tree)|Easy|
+|544|Output Contest Matches|[JavaScript](https://github.com/duteng/leetcode/tree/master/Algorithms/Output%20Contest%20Matches)|Medium|
