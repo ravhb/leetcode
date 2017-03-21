@@ -3,22 +3,12 @@ var request = require('request');
 var cheerio = require('cheerio');
 
 var urls = [
-  'https://leetcode.com/problems/longest-common-prefix/#/description',
-  'https://leetcode.com/problems/divide-two-integers/#/description',
-  'https://leetcode.com/problems/next-permutation/#/description',
-  'https://leetcode.com/problems/search-in-rotated-sorted-array/#/description',
-  'https://leetcode.com/problems/search-insert-position/#/description',
-  'https://leetcode.com/problems/count-and-say/#/description',
-  'https://leetcode.com/problems/maximum-subarray/#/description',
-  'https://leetcode.com/problems/spiral-matrix/#/description',
-  'https://leetcode.com/problems/length-of-last-word/#/description',
-  'https://leetcode.com/problems/sqrtx/#/description',
-  'https://leetcode.com/problems/validate-binary-search-tree/',
-  'https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/#/description',
+  'https://leetcode.com/problems/linked-list-random-node/#/description',
 ];
 
 urls.forEach((url) => {
   request(url, (err, response, body) => {
+    console.log(url, err);
     var $ = cheerio.load(body);
     var textArr = $('.question-title h3').text().trim().split('. ');
     var no = textArr[0];
@@ -28,7 +18,6 @@ urls.forEach((url) => {
     var folderPath = `Algorithms/${title}`;
     var filePath = `${folderPath}/README.md`;
 
-    console.log(no, title, difficulty);
 
     fs.mkdir(folderPath, (err) => {
       fs.open(filePath, 'wx', (err) => {
