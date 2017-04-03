@@ -1,8 +1,23 @@
 # [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 ###### No:`191`
 ###### Difficulty:`Easy`
-
-
+#### Solution 1
+```js
+/**
+ * @param {number} n - a positive integer
+ * @return {number}
+ */
+var hammingWeight = function(n) {
+  var count = 0;
+  while (n) {
+    n = n & (n - 1);
+    count++;
+  }
+  
+  return count;
+};
+```
+#### Solution 2
 ```javascript
 /**
  * @param {number} n - a positive integer
